@@ -26,7 +26,7 @@ A modern web-based music player with lyrics and album art support, built with Py
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Web_Music_Player.git
-cd cline
+cd Web_Music_Player
 ```
 
 2. Create and activate a virtual environment:
