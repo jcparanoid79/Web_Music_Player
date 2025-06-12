@@ -50,7 +50,7 @@ The application will be available at `http://localhost:5000`
 ## Project Structure
 
 ```
-cline/
+Web_Music_Player/
 ├── src/
 │   └── app.py              # Main Flask application
 ├── static/
